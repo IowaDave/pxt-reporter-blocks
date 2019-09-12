@@ -2,6 +2,10 @@
  * Custom blocks
  * Example by David Sparks
  * September 2019
+ *
+ * Paste this code into the custom.ts file of 
+ * a MakeCode project, replacing what is there.
+ * 
  */
 //% weight=100 color=#0fbc11 icon="\uf0c3"
 namespace custom {
