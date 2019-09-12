@@ -54,7 +54,7 @@ namespace custom {
 }</code></pre>
 
 <p>Click the Blocks button to compile the code. Then refresh the browser to activate the new block. It will be in the "Custom" group that appears in the main blocks list. Use the block to convert negative 13.3333 degrees (below zero) Celsius into its equivalent: 8 degrees (above zero) Fahrenheit. (Figure 2)</p>
-<h5><img alt="Figure 2" width="540" height="156" src="https://raw.githubusercontent.com/IowaDave/pxt-reporter-blocks/gh-pages/images/Figure%202.png">
+<h5><img alt="Figure 2" src="https://raw.githubusercontent.com/IowaDave/pxt-reporter-blocks/gh-pages/images/Figure%202.png">
 <br>Figure 2<br>
 Showing the Custom group and the fahrenheit reporter block being used.</h5>
 
@@ -216,7 +216,6 @@ Now you have seen how create your own.</pre>
     <li>Obtain and process a value from a sensor attached to the micro:bit. For example, modify the fahrenheit block so that the code inside the function obtains the value of the micro:bit's temperature sensor and converts it to fahrenheit.<br><br>The block would not need a parameter because it directly fetches the value it needs. Hint: the JavaScript function you will need, "temperature", is located in the input group of built-in blocks.<br><br>I leave it as an exercise for the reader.<br></li>
     <li>I intend to build a collection of reporter-block examples in <a href="https://github.com/iowadave/pxt-reporter-blocks/">the companion repository for this article</a>, located in the IowaDave area of GitHub.</li>
 </ul>
-/!-- width="540" height="185" -->
 <h5><img alt="Figure 3" src="https://raw.githubusercontent.com/IowaDave/pxt-reporter-blocks/gh-pages/images/Figure%203.png">
 <br>Figure 3<br>
 Showing the rollDice custom block in use with a result in the micro:bit display</h5>
